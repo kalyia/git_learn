@@ -1,0 +1,9 @@
+1) git init  инициализация директории
+2) git config --global user.name 'Kalyia'
+3) git config --global user.email bekieva934@gmail.com
+4) git config --list проверка
+5) ssh-keygen ENTER ENTER
+6) cat ~/.ssh/id_rsa.pub
+git remote -v
+git status
+git add git_commands.txt
